@@ -1,0 +1,6 @@
+{
+    "type": "StakeHWSigningFileShelley_ed25519",
+    "description": "Stake Hardware Signing File",
+    "path": "1854H/1815H/0H/2/0",
+    "cborXPubKeyHex": "584016710a8e93fbfcadf23d79a5ff9bfd4a635304ab667f195488ab6b539f2eb3ab36e2eb91621d9f0512dd147f33c725128b21ff73079cc7fbf1702a5b5d0853a1"
+}
